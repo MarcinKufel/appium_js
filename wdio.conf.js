@@ -4,6 +4,8 @@ exports.config = {
     // Runner Configuration
     // ====================
     //
+    runner: 'local',
+    port: 4723,
     //
     // ==================
     // Specify Test Files
