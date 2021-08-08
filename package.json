@@ -1,0 +1,30 @@
+{
+  "name": "appium_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinKufel/appium_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinKufel/appium_js/issues"
+  },
+  "homepage": "https://github.com/MarcinKufel/appium_js#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.9.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.9.0",
+    "@wdio/mocha-framework": "^7.9.0",
+    "@wdio/spec-reporter": "^7.9.0",
+    "chromedriver": "^92.0.1",
+    "wdio-chromedriver-service": "^7.2.0"
+  }
+}
